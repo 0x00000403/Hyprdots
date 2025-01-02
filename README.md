@@ -1,6 +1,6 @@
 > [!WARNING]
 >
-> # **Move to [0xNahida/flake](https://github.com/0xNahida/flake)**
+> # **Move to [Buer-Nahida/flake](https://github.com/Buer-Nahida/flake)**
 
 <div align="center">
 
